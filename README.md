@@ -21,7 +21,7 @@ The project aims at creating an Attendance System that marks the attendance of p
 
 
 
-![folder_tree-3.png](attachment:folder_tree-3.png)
+![folder_tree-3.png](https://github.com/Pragyanand/Facial-Recognition-Attendance-System/blob/main/folder_tree.png)
 
 
 
