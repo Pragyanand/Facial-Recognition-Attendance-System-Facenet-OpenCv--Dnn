@@ -48,6 +48,7 @@ The project aims at creating an Attendance System that marks the attendance of p
 
 * face_model
     * facenet_keras.h5 : Pre_trained Model; Provides numerical embeddings on the imgages fed to it.
+    * I haven't included here but can be found in just one simple google search.
     
         FaceNet is a system that directly learns a mapping from face images to a compact Euclidean space where distances directly correspond to a measure of face similarity. Once this space has been produced, tasks such as face recognition, verification and clustering can be easily implemented using standard techniques with FaceNet embeddings as feature vectors.
     
