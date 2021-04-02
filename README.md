@@ -3,6 +3,9 @@
 
 
 The project aims at creating an Attendance System that marks the attendance of people by using a live webcam feed and store that into a mysql database.
+   - Using Opencv dnn for face detection
+   - facenet_keras model for face_embedding generation
+   - knn for classification of faces.
 
 
 ## Tools Used :
@@ -101,6 +104,7 @@ Here's the link to the [FaceNet Paper](https://arxiv.org/abs/1503.03832).
     - Blink test or randomly specified head movement test can be implemented to prevent this from happening. <br><br>
 * Change in lighting conditions and distance and posture of the face in accordance with the camera can affect the model's prediction performance. <br><br>
 * Model Training takes a lot of time.<br><br>
+* Always trains on whole dataset and creates a new model everytime ( doesn't update the model with new information but can be done easily.)
 
 
 
