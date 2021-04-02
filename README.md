@@ -97,7 +97,7 @@ Here's the link to the [FaceNet Paper](https://arxiv.org/abs/1503.03832).
         - This is created at the time of dataset creation to store the names against the label encoder's encoding to later display the person's name instead of number when our model is being tested. 
 
 
-## Drawbacks
+## Drawbacks & Limitations
 
 
 * It can be fooled using a photograph or a video.
